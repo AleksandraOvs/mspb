@@ -884,6 +884,13 @@ span.burger__line:after {
         width: 100%;
     }
 
+    .section-hero {
+        padding-top: 20%;
+        padding-bottom: 40%;
+        position: relative;
+        height: auto;
+    }
+
     .header__top__right {
         flex-wrap: wrap;
         margin-top: 10px;
