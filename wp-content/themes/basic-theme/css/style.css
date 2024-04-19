@@ -490,7 +490,7 @@ img.hero-image {
 }
 
 .section-hero__img__left-content .button {
-    margin-top: 20px;
+    margin-top: 40px;
 }
 
 .section-hero__img__title,
@@ -536,7 +536,7 @@ a.hero-button.button.fill:hover {
 
 .section-hero__img__left-content p {
     margin: 0 auto;
-    text-align: center;
+    text-align: left;
     line-height: 120%;
     margin-top: 20px;
     width: 100%;
@@ -2015,6 +2015,10 @@ ul.breadcrumbs__list {
 
     .section-hero__img__title, .section-hero__img__left-content {
         width: 100%;
+    }
+
+    .section-hero__img__left-content p {
+        text-align: center;
     }
 
     .slide-image img {
